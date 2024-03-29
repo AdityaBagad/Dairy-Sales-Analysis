@@ -6,4 +6,4 @@
 
 ## Tableau Dashboard
 
-![Power BI Model](Screenshot\Main_Dashboard.png)
+![Power BI Model](Screenshot/Main_Dashboard.png)
